@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "red-loader",
+  "name": "Red Loader",
+  "version": "${version}",
+  "environment": "*",
+  "description": "The base mod loader.",
+  "contact": {
+    "homepage": "https://fabricmc.net",
+    "issues": "https://github.com/FabricMC/fabric/issues",
+    "sources": "https://github.com/FabricMC/fabric"
+  },
+  "icon": "assets/redloader/icon.png",
+  "authors": [
+    "Tympanicblock61"
+  ]
+}
